@@ -48,8 +48,7 @@ class Main extends PluginBase implements Listener {
     
     	return json_encode($formData);
 	}
-	
-	/** @var DataPacketReceiveEvent $event */
+
 	public function onReceive(DataPacketReceiveEvent $event): void{
 		// Why no ServerSettingsRequestPacket?, I've tried but the settings don't show up
     	if(!$event->getOrigin()->getPlayer() instanceof Player) return;

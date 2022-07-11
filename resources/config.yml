@@ -1,0 +1,12 @@
+# CustomSettings Config
+# Change Title of your Settings here
+title: "MyServer Settings"
+
+# Change Content of your Settings here
+# Use {name} for Name Player
+# Use {line} For new Line
+contents: "Welcome to Our server, {name}{line}{line}Hope you can be comfortable :)."
+
+# Change icon of Your Settings here
+# Can url or path
+icon: "textures/ui/settings_glyph_color_2x"

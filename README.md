@@ -7,6 +7,8 @@ This Plugin gives you a setting page for your Server :)
 
 ![Screenshot](https://raw.githubusercontent.com/MulqiGaming64/CustomSetting/master/Screenshot.jpg)
 
+# IMPORTANT!!!
+Bug All ui changed to this settings, Please don't use this plugin, I've tried with server setting request packet but it still doesn't work, and I've thought of various ways but it doesn't work, if you have any ideas you can open issues
 # Config
 
 ``` YAML
